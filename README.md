@@ -15,7 +15,11 @@ The goal of this project is to scrape hospital information from a specified webs
 
 ## Skills Utilized
 Web Scraping: Extracting data from web pages using Beautiful Soup.
+
 Python Programming: Writing efficient and readable code to navigate and parse HTML content.
+
 Data Cleaning: Handling missing values and ensuring data consistency.
+
 Data Storage: Storing the scraped data in a structured format (CSV/JSON).
+
 Error Handling: Implementing error handling to manage unexpected issues during the scraping process.
