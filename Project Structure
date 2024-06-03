@@ -1,0 +1,7 @@
+hospital-info-scraper/
+│
+├── scrape_hospitals.py       # Main script for web scraping
+├── requirements.txt          # List of dependencies
+├── hospitals.csv             # Output file containing scraped data
+├── README.md                 # Project documentation
+└── .gitignore                # Git ignore file
