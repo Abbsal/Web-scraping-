@@ -38,9 +38,16 @@ Install Dependencies
 
 pip install -r requirements.txt
 
-# Dependencies
+# Contributing
 
-Python 3.x
-Beautiful Soup 4
-Requests
-Pandas (optional for data manipulation)
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/your-feature).
+Make your changes.
+Commit your changes (git commit -m 'Add your feature').
+Push to the branch (git push origin feature/your-feature).
+Create a new Pull Request.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
