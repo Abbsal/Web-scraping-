@@ -23,3 +23,24 @@ Data Cleaning: Handling missing values and ensuring data consistency.
 Data Storage: Storing the scraped data in a structured format (CSV/JSON).
 
 Error Handling: Implementing error handling to manage unexpected issues during the scraping process.
+
+# Setup and Installation
+
+Clone the Repository
+
+git clone https://github.com/yourusername/hospital-info-scraper.git
+cd hospital-info-scraper
+Create a Virtual Environment
+
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+Install Dependencies
+
+pip install -r requirements.txt
+
+# Dependencies
+
+Python 3.x
+Beautiful Soup 4
+Requests
+Pandas (optional for data manipulation)
